@@ -1,0 +1,77 @@
+.image{
+    background-image: url("https://img.freepik.com/premium-photo/assorted-indian-recipes-food-various_79295-7226.jpg");
+    height: 600px;
+    width: 500px;
+    background-size: cover;
+    margin-left: 450px;
+}
+.card{
+    background-color: white;
+    padding: 20px;
+    border-radius: 30px;
+}
+.card-name{
+    color: #dc2626;
+}
+.card-description{
+    color: #f87171;
+}
+.button{
+    height: 40px;
+    width: 135px;
+    background-color: #dc2626;
+    border-style: none;
+    border-radius: 20px;
+
+
+}
+.list-menu{
+    background-image: url("https://img.freepik.com/free-photo/abstract-blur-coffee-shop_1203-8412.jpg");
+    height: 630px;
+    width: 500px;
+    background-size: cover;
+    margin-left: 450px;
+}
+.list-menu-heading{
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 10px;
+}
+.row{
+    margin: 20px;
+}
+.menu{
+    background-color:peachpuff;
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    margin: 25px;
+    text-align: center;
+    padding: 30px;
+}
+.menu-image{
+    height: 70px;
+    width: 70px;
+}
+.menu-name{
+    color: #ef4444;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin: 10px;
+}
+.menu-price{
+    color: #7f1d1d;
+    font-weight: bold;
+}
+.options{
+    text-align: center;
+}
+.see{
+    height: 40px;
+    width: 135px;
+    background-color: #dc2626;
+    border-style: none;
+    border-radius: 20px;
+
+}
